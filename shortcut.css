@@ -1,0 +1,26 @@
+.shortcut{
+    position: fixed;
+    border: 2px solid #e6e6e6;
+    width: 100%;
+    height: 42px;
+    background: white;
+}
+.shortcut a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    background: white;
+}
+.shortcut a:hover{
+    color: green;
+    cursor: pointer;
+}
+.shortcut ul{
+    display: inline-block;
+    background: white;
+}
+.shortcut li{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 20px;
+}

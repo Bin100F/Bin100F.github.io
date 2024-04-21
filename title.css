@@ -1,0 +1,15 @@
+.title{
+    padding: 40px 0 0;
+    height: 116px;
+}
+.hot{
+    border-bottom: 1px solid gray;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: green;
+}
+.explain{
+    text-align: center;
+    color: gray;
+}
